@@ -73,6 +73,15 @@ sudo python3 -m pip install -r requirements.txt
 python3 rsf.py
 ```
 
+## Installation on Windows
+
+```
+git clone https://www.github.com/threat9/routersploit
+cd routersploit
+python -m pip install -r windows-requirements.txt
+python rsf.py
+```
+
 ## Running on Docker
 
 ```
